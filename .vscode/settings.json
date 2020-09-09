@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/175b64d5-a8f5-49e1-bcbc-f3b49f0c8f7f/resourceGroups/mona-nodeapp-rg/providers/Microsoft.Web/sites/monanodeapp1",
+    "appService.deploySubpath": "."
+}
